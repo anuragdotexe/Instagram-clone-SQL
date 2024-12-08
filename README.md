@@ -1,3 +1,4 @@
+made wiht love and 4o
 # 📸 Instagram Database Simulation Project 🎉
 
 Welcome to the **Instagram Database Simulation Project**! This project takes you behind the scenes of how a simplified Instagram database works. From managing users and their posts to tracking likes, comments, follows, and even photo tags, this database has it all. It's like creating your own mini-Instagram, minus the addictive scrolling! 🚀
